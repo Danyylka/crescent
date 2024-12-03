@@ -16,7 +16,7 @@ We follow standard GitHub best practices:
 
 General guidance:
 
-- Make sure you run tests by running `make test-all` locally to see there is any issue
+- Make sure you run tests by running `make test-all` locally to see there is any issues
 - Review all the checks on your PR and review the code coverage report
 
 Thank you for your contribution!
