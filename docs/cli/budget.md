@@ -111,7 +111,7 @@ crescentd q bank balances cosmos1228ryjucdpdv3t87rxle0ew76a56ulvnfst0hq0sscd3naf
 # Query an address that derived can be used as source and destination
 # Derived according to the given name, module name, and type
 
-# Default flag:
+# Default flags:
 # $ [--type 0] - ADDRESS_TYPE_32_BYTES of ADR 028
 # $ [--module-name budget] - When B, the default module name is budget
 
